@@ -1,1 +1,2 @@
-This is my new file. Changed by developer 2 - Bernice
+Hello, This is my new file. Changed by developer 2 - Bernice.
+Changed by developer1 - Amruta.
